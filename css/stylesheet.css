@@ -11,12 +11,13 @@ body {
     padding-top: 30px; 
 	padding-left: 20px;
 	}
+	
 .intro_text { 
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
 	background-color: #373734;
 	height: 340px;
-	margin: 30px;
+	margin-left: 30px;
 	padding: 20px;
 	width: 400px;
 	float: left;
@@ -29,14 +30,29 @@ body {
   }	
  .intro_text a, .intro_text a:visited, .footer a, .footer a:visited, .footer p { color: #e1e1e2; }
  
+.horizontal_list {
+	list-style-type: none;
+}
+
+.horizontal_list li {
+	display:inline;
+	padding-right: 15px; 
+	font-family: arial;
+}
+
+li a, li a:visited {
+	font-family: arial;
+	color: #000;
+}
+
  .image_lg {
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
 	background-color: #373734;
 	padding: 20px;
-	 float: right; 
-	margin-top: 30px;
+	float: right;
 	margin-right: 30px;
+	margin-bottom: 26px;
 	height: 340px;
 	width: 400px;
 	}
@@ -47,15 +63,32 @@ body {
   .footer {
 	background-color:#810202;
 	font-family:arial;
-	font-size:11pt;
-	margin-top:430px;
-	position:absolute;
+	font-size:9pt;
+	float: left;
 	text-align:center;
 	width:98.6%;
 	border-top: 3px solid black;
   }
 
   .images {
-	margin: 20px;
+	margin-left: 20px;
 	float: left;
+}
+
+/* image popup styles*/
+.right {
+	float: right;
+	margin-top: 10px;
+}
+
+.panel_popup {
+	margin: 20px;
+}
+
+.panel_link {
+	position: absolute; 
+	display: none; 
+	background: #373734; 
+	border: 1px solid #000; 
+	z-index: 100;
 }

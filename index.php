@@ -1,20 +1,11 @@
-<html>
-  <head>
-	<title>Stephen Renaker Harpsichords</title>
-	<link type="text/css" rel="stylesheet" href="/css/stylesheet.css" />
+<?php include("shared/header.php"); ?>
 	<style>
-	.intro_text {
-		padding-top: 0px;
-		padding-bottom: 24px;		
-		height: 357px;
-	}
-	</style>
-  </head>
-
-  <body>
-	<div class='header'><img src='/images/titlebar.png'></div>
-	<div class='backdrop'>
-
+		.intro_text {
+			padding-top: 0px;
+			padding-bottom: 24px;		
+			height: 357px;
+		}
+	</style>	
 	  <div class='intro_text'>
 		<p>
 	  	<span class='capital'>O</span>ver the last few years I've split my time between
@@ -31,22 +22,10 @@
 		I sold the first three, including the one pictured to the right, and the fourth is in 
 		my living room, where I try to keep the kids from destroying it.
 		</p>
-		<p><a href='gallery'>Image gallery</a>
-		&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	
-		<a href='gallery/op3'>Audio/video</a></p>
-		<p><a href='slideshow/1'>Construction slideshow</a></p>
-	
-		
 		
 	  </div>
-	  <div class='image_lg'><a href='/gallery'><img src='/images/green.png' border='0'></a></div>
+	  <div class='image_lg'><a href='/gallery'><img src='images/green.png' border='0'></a></div>
 
 	</div>
-<div class='footer'>
-	<p>
-  	Contact: <a href='mailto:info@renaker.com'>info@renaker.com</a>
-	</p>
-  </div> 
-	
-  </body>
-</html>
+
+<?php include("shared/footer.php"); ?>
