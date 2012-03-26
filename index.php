@@ -16,7 +16,7 @@
 		I spent three years as an apprentice in the studio of 
 		<a href='http://www.kevinfryer.net'>Kevin Fryer</a>, then worked as a software developer 
 		for two years at <a href='http://www.cohuman.com'>Cohuman</a>. Now I'm back in the workshop, building
-		  a new harpsichord (current progress <a href='gallery/op5'>here</a>).
+		  a new harpsichord (current progress <a href='gallery/op5.php'>here</a>).
 		</p><p>
 		I've built four instruments so far, the first two from kits and the most recent two from scratch.
 		I sold the first three, including the one pictured to the right, and the fourth is in 

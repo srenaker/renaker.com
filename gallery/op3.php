@@ -53,7 +53,7 @@
 			the new instrument, and to <a href='http://www.youtube.com/user/queswerte'>Sisto 
 				Flores</a> for his video expertise!
 			<ul>
-				<li><a href='/slideshow/1'>Construction slideshow</a></li>
+				<li><a href='slideshow?slide=0'>Construction slideshow</a></li>
 			</ul>
 		</div>
 		

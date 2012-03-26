@@ -75,6 +75,36 @@ li a, li a:visited {
 	float: left;
 }
 
+/* slideshow styles */
+.slideshow_images {
+	float: left;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border: 20px solid #373734;
+	margin: 0 25 25 25px;
+						
+}
+
+.slideshow_text {
+	float: right;
+	width: 200px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	background-color: #373734;
+	margin: 0 25 25 0px;
+	padding: 15px;
+	font-family: arial;
+	font-size: 11pt;
+	color: #fff;
+}
+
+.slideshow_text a, .slideshow_text a:visited {
+	font-family: arial;
+	font-size: 11pt;
+	color: #fff;
+}
+
+
 /* image popup styles*/
 .right {
 	float: right;
