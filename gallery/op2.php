@@ -9,7 +9,6 @@
 
 			.intro_text {
 				width: 300px;
-				height: 330px;
 				margin-right: 26px;
 			}
 			.details_images {

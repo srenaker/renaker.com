@@ -16,10 +16,10 @@ body {
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
 	background-color: #373734;
-	height: 340px;
-	margin-left: 30px;
+/*	height: 340px; */
+	margin: 0 30 25 40px;
 	padding: 20px;
-	width: 400px;
+	width: 300px;
 	float: left;
 	}
  .intro_text p, .intro_text ul  {
@@ -28,6 +28,9 @@ body {
 	color: #fff;
 
   }	
+.intro_text li {
+	margin-bottom: 15px;
+}
  .intro_text a, .intro_text a:visited, .footer a, .footer a:visited, .footer p { color: #e1e1e2; }
  
 .horizontal_list {
@@ -43,6 +46,15 @@ body {
 li a, li a:visited {
 	font-family: arial;
 	color: #000;
+}
+
+.details_images {
+	float: left;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border: 20px solid #373734;
+	margin-right: 25px;
+	margin-bottom: 25px;						
 }
 
  .image_lg {

@@ -24,13 +24,18 @@
 		<div class='images'>
 		<table cellspacing='10'>
 			<tr>
-				<td><a href='op4.php'><img src='../images/blue_3qtr_med.png' border='0'></a>
-
-					</td>
+				<td><a href='op5.php'><img src='../images/op5-above-sm2.jpg' border='0'></a></td>
+				<td><a href='op4.php'><img src='../images/blue_3qtr_med.png' border='0'></a></td>
 				<td><a href='op3.php'><img src='../images/3_full_length_sm.png' border='0'></a></td>
 				<td><a href='op2.php'><img src='../images/dbl_3qtr_med.png' border='0'></a></td>				
 			</tr>
 			<tr>
+				
+				<td class='details_link'>										
+					Op. 5, after Ruckers 1624<br />
+					Completed April 2012 <br />
+					<a href='op5.php'>Details</a>
+				</td>
 				<td class='details_link'>										
 					Op. 4, after Ruckers 1624<br />
 					Completed March 2010 <br />

@@ -11,7 +11,8 @@
 		<ul class='horizontal_list'>
 			<li><a href='/'>Home</a>
 			<li><a href='/gallery'>Gallery</a>
-			<li><a href='/gallery/op3.php'>Audio/video</a>
+			<li><a href='/gallery/forsale.php'>Instruments for sale</a>
+			<li><a href='/contact.php'>Contact</a>	
 		</ul>
 	</div>
 	<div class='backdrop'>

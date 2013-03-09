@@ -9,7 +9,6 @@
 
 			.intro_text {
 				width: 300px;
-				height: 330px;
 				margin-right: 26px;
 			}
 			.details_images {
@@ -53,7 +52,7 @@
 			the new instrument, and to <a href='http://www.youtube.com/user/queswerte'>Sisto 
 				Flores</a> for his video expertise!
 			<ul>
-				<li><a href='slideshow?slide=0'>Construction slideshow</a></li>
+				<li><a href='slideshow.php?slide=0'>Construction slideshow</a></li>
 			</ul>
 		</div>
 		

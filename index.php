@@ -8,19 +8,16 @@
 	</style>	
 	  <div class='intro_text'>
 		<p>
-	  	<span class='capital'>O</span>ver the last few years I've split my time between
-		harpsichord building and working at software startups, focusing more on one for awhile, then
-		going back to the other.  They're both interesting, and it's fun to move back and forth from 
-		the new economy to the (really) old economy. 
+	  	<span class='capital'>W</span>hat's the first thing you ask when you meet a harpsichord builder?  In my 
+		experience, the most common question is: how did you wind up in such an odd field?  For me, the answer is: in 
+		a very roundabout way.  I started out as a trombonist, then worked as a software engineer, and now I make 
+		harpsichords.  I've been interested in early keyboard instruments ever since, as a young piano student,
+		I discovered to my astonishment that J.S. Bach did not in fact write for the piano, but for the harpsichord.  I first 
+		played one in college, and I built my first one from a kit in 2006.  
 		</p><p>
 		I spent three years as an apprentice in the studio of 
-		<a href='http://www.kevinfryer.net'>Kevin Fryer</a>, then worked as a software developer 
-		for two years at <a href='http://www.cohuman.com'>Cohuman</a>. Now I'm back in the workshop, building
-		  a new harpsichord (current progress <a href='gallery/op5.php'>here</a>).
-		</p><p>
-		I've built four instruments so far, the first two from kits and the most recent two from scratch.
-		I sold the first three, including the one pictured to the right, and the fourth is in 
-		my living room, where I try to keep the kids from destroying it.
+		<a href='http://www.kevinfryer.net'>Kevin Fryer</a>, then set up my own shop in Palo Alto.
+		I've built three instruments on my own so far, two <a href='gallery'>Flemish singles</a> and one French double.
 		</p>
 		
 	  </div>

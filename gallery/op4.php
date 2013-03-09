@@ -54,8 +54,9 @@
 			</p><p>
 			The soundboard painting is by Janine Johnson, the nameboard lettering is by Elizabeth Fifield,
 			and the Flemish papers in the keywell and inner case are by Grant O'Brien.  I painted the outer case
-			and lid myself.	
-			</p>	
+			and lid.	
+			</p>
+
 			
 		</div>
 		
