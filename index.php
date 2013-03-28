@@ -17,11 +17,12 @@
 		</p><p>
 		I spent three years as an apprentice in the studio of 
 		<a href='http://www.kevinfryer.net'>Kevin Fryer</a>, then set up my own shop in Palo Alto.
-		I've built three instruments on my own so far, two <a href='gallery'>Flemish singles</a> and one French double.
+		I've built three instruments on my own so far, two <a href='gallery'>Flemish singles</a> and one 
+		<a href='gallery/op6.php'>French double</a>.
 		</p>
 		
 	  </div>
-	  <div class='image_lg'><a href='/gallery'><img src='images/green.png' border='0'></a></div>
+	  <div class='image_lg'><a href='/gallery'><img src='images/chip_fd_sm.jpg' border='0'></a></div>
 
 	</div>
 

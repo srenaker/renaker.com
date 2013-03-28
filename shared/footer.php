@@ -1,6 +1,6 @@
 <div class='footer'>
 	<p>
-	Copyright &copy; 2012 Stephen Renaker Harpsichords. &nbsp; &nbsp;
+	Copyright &copy; 2013 Stephen Renaker Harpsichords. &nbsp; &nbsp;
   	Contact: <a href='mailto:info@renaker.com'>info@renaker.com</a>
 	</p>
   </div> 

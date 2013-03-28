@@ -38,7 +38,7 @@
 		
 		<div class='intro_text'>
 			<p>
-			This is my most recently finished instrument, a Flemish single-manual modeled 
+			This is another Flemish single-manual modeled 
 			after the Colmar Ruckers of 1624, using the
 			same design as my <a href='op3.php'>last instrument</a>. It has a compass of 
 			56 notes, G to d transposing from A=415 to A=440, with two 8-foot choirs. 
