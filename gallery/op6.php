@@ -4,7 +4,7 @@
 		<style>
 
 			.backdrop {
-				width: 1400px;
+				width: 2000px;
 			}
 
 			.intro_text {
@@ -36,6 +36,10 @@
 				buff stop. The soundboard was painted by Janine Johnson.
 			</p>	
 			
+		</div>
+		
+		<div class='details_images'>
+<iframe width="560" height="344" src="http://www.youtube.com/embed/Ur20eUSyUGg" frameborder="0" allowfullscreen></iframe>
 		</div>
 		
 		<div class='details_images'>
