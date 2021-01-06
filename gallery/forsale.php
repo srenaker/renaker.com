@@ -2,14 +2,12 @@
 
 	<div class='intro_text'>
 		<p>
-		I currently have two instruments available for sale or long-term rental.  Both are 
-		single-manual Flemish harpsichords modeled after an instrument by Ioannes Ruckers 
-		of 1624 (the "Colmar" Ruckers).
+		I don't currently have any instruments available for sale or long-term rental. If you are
+		interested in commissioning a new instrument, please contact me.
 		
 		<ul>
 			<li>Opus 5, completed March 2012<br> 
-				Sale price: $17,000<br>
-				Rental fee: $500/month<br>
+				Sale price: SOLD<br>
 				<a href='op5.php'>Details</a>
 			<li>Opus 4, completed March 2010<br>
 				Sale price: SOLD<br>
