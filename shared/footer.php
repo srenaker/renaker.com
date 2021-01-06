@@ -1,6 +1,6 @@
 <div class='footer'>
 	<p>
-	Copyright &copy; 2017 Stephen Renaker Harpsichords. &nbsp; &nbsp;
+	Copyright &copy; 2021 Stephen Renaker Harpsichords. &nbsp; &nbsp;
   	Contact: <a href='mailto:info@renaker.com'>info@renaker.com</a>
 	</p>
   </div> 
