@@ -68,7 +68,20 @@ li a, li a:visited {
 	height: 340px;
 	width: 400px;
 	}
- .capital {
+
+.image_index {
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	background-color: #373734;
+	padding: 20px;
+	float: right;
+	margin-right: 30px;
+	margin-bottom: 26px;
+	height: 320px;
+	width: 336px;
+	}	
+
+	.capital {
 	font-size: 22pt; 
 	font-weight: normal;
     }

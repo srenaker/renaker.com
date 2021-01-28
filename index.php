@@ -22,7 +22,7 @@
 		</p>
 		
 	  </div>
-	  <div class='image_lg'><a href='/gallery'><img src='images/chip_fd_sm.jpg' border='0'></a></div>
+	  <div class='image_index'><a href='/gallery'><img src='images/blue_full_length_sm.png' border='0'></a></div>
 
 	</div>
 
